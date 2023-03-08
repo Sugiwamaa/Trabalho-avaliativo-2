@@ -1,0 +1,63 @@
+body {
+
+width: 45%;
+
+}
+
+h1 {
+
+text-align: center;
+font-size: 50px;
+grid-auto-flow: row;
+color: rgb(251, 255, 0);
+font-family: fantasy;
+background-color: blue;
+width: fit-content;
+position: relative;
+left: 400px;
+border-radius: 10px;
+
+}
+
+h2 {
+
+text-align: center;
+color: orange;
+background-color: rgb(72, 28, 141);
+grid-auto-flow: row;
+width: 500px;
+position: relative;
+left: 400px;
+font-size: 50px;
+border-radius: 5px;
+
+
+}
+
+.wi {
+
+position: relative;
+left: 250px;
+grid-auto-flow: column;
+
+}
+
+p {
+
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+grid-auto-flow: row;
+text-align: center;
+position: relative;
+left: 370px;
+
+}
+
+.crio {
+
+position: relative;
+left: 300px;
+grid-auto-flow: column;
+
+}
